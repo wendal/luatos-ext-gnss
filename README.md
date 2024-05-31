@@ -10,3 +10,7 @@
 chcp 65001
 luatos-lua.exe main.lua
 ```
+
+## 输出结果
+
+* [示例链接](regs.md)
