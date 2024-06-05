@@ -9,7 +9,8 @@ require "sysplus"
 ]]
 
 regs = {
-    {name="Air780EG星历", file="HXXT_GPS_BDS_AGNSS_DATA.dat", format="rtcm", url="http://download.openluat.com/9501-xingli/HXXT_GPS_BDS_AGNSS_DATA.dat"},
+    {name="Air780EG/Air510U北斗+GPS星历", file="HXXT_GPS_BDS_AGNSS_DATA.dat", format="rtcm", url="http://download.openluat.com/9501-xingli/HXXT_GPS_BDS_AGNSS_DATA.dat"},
+    {name="Air780EG/Air510U单北斗星历", file="HXXT_GPS_BDS_AGNSS_DATA.dat", format="rtcm", url="http://download.openluat.com/9501-xingli/HXXT_BDS_AGNSS_DATA.dat"},
     {name="Air780EPVH星历", file="HD_GPS_BDS.hdb", format="hd", url="http://download.openluat.com/9501-xingli/HD_GPS_BDS.hdb"},
     {name="Air530Z星历", file="CASIC_data.dat", format="zkw", url="http://download.openluat.com/9501-xingli/CASIC_data.dat"},
     {name="Air530Z星历(单北斗)", file="CASIC_data_bds.dat", format="zkw", url="http://download.openluat.com/9501-xingli/CASIC_data_bds.dat"},
@@ -277,7 +278,7 @@ function data2md(regs)
 ## 星历基本信息
 ]]
     md = md .. "\n"
-    md = md .. "|星历名称|文件名|格式|更新时间|\n"
+    md = md .. "|星历名称|文件名|格式|更新时间(UTC)|\n"
     md = md .. "|---|---|---|---|\n"
     for _, v in pairs(regs) do
         md = md .. string.format("|%s|[%s](%s)|%s|%s|\n", v.name, v.file, v.url, v.format, v.updated)
