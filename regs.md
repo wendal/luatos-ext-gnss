@@ -4,11 +4,11 @@
 
 |星历名称|文件名|格式|更新时间(UTC)|
 |---|---|---|---|
-|Air780EG/Air510U北斗+GPS星历|[HXXT_GPS_BDS_AGNSS_DATA.dat](http://download.openluat.com/9501-xingli/HXXT_GPS_BDS_AGNSS_DATA.dat)|rtcm|Wed, 05 Jun 2024 00:45:55 GMT|
-|Air780EG/Air510U单北斗星历|[HXXT_GPS_BDS_AGNSS_DATA.dat](http://download.openluat.com/9501-xingli/HXXT_BDS_AGNSS_DATA.dat)|rtcm|Wed, 05 Jun 2024 00:45:55 GMT|
-|Air780EPVH星历|[HD_GPS_BDS.hdb](http://download.openluat.com/9501-xingli/HD_GPS_BDS.hdb)|hd|Wed, 05 Jun 2024 00:47:50 GMT|
-|Air530Z星历|[CASIC_data.dat](http://download.openluat.com/9501-xingli/CASIC_data.dat)|zkw|Wed, 05 Jun 2024 00:47:46 GMT|
-|Air530Z星历(单北斗)|[CASIC_data_bds.dat](http://download.openluat.com/9501-xingli/CASIC_data_bds.dat)|zkw|Wed, 05 Jun 2024 00:47:46 GMT|
+|Air780EG/Air510U北斗+GPS星历|[HXXT_GPS_BDS_AGNSS_DATA.dat](http://download.openluat.com/9501-xingli/HXXT_GPS_BDS_AGNSS_DATA.dat)|rtcm|Wed, 06 Nov 2024 06:09:15 GMT|
+|Air780EG/Air510U单北斗星历|[HXXT_GPS_BDS_AGNSS_DATA.dat](http://download.openluat.com/9501-xingli/HXXT_BDS_AGNSS_DATA.dat)|rtcm|Wed, 06 Nov 2024 06:09:15 GMT|
+|Air780EPVH星历|[HD_GPS_BDS.hdb](http://download.openluat.com/9501-xingli/HD_GPS_BDS.hdb)|hd|Wed, 06 Nov 2024 06:14:41 GMT|
+|Air530Z星历|[CASIC_data.dat](http://download.openluat.com/9501-xingli/CASIC_data.dat)|zkw|Wed, 06 Nov 2024 06:14:39 GMT|
+|Air530Z星历(单北斗)|[CASIC_data_bds.dat](http://download.openluat.com/9501-xingli/CASIC_data_bds.dat)|zkw|Wed, 06 Nov 2024 06:14:39 GMT|
 
 
 ## 北斗星历信息
@@ -56,12 +56,13 @@
 |43|√|√|√|-|-|
 |44|√|√|√|-|-|
 |45|√|√|√|-|-|
-|46|√|√|√|-|-|
-|48|√|√|-|-|-|
 |50|√|√|-|-|-|
+|56|√|√|-|-|-|
+|58|√|√|-|-|-|
 |59|√|√|√|-|-|
 |60|√|√|√|-|-|
 |62|√|√|-|-|-|
+|46|-|-|√|-|-|
 
 ## GPS星历信息
 
@@ -72,6 +73,7 @@
 |04|√|-|√|√|-|
 |05|√|-|√|√|-|
 |06|√|-|√|√|-|
+|07|√|-|√|√|-|
 |08|√|-|√|√|-|
 |09|√|-|√|√|-|
 |10|√|-|√|√|-|
@@ -97,5 +99,3 @@
 |30|√|-|√|√|-|
 |31|√|-|√|√|-|
 |32|√|-|√|√|-|
-|01|-|-|-|√|-|
-|07|-|-|-|√|-|
