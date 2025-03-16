@@ -4,11 +4,11 @@
 
 |星历名称|文件名|格式|更新时间(UTC)|
 |---|---|---|---|
-|Air780EG/Air510U北斗+GPS星历|[HXXT_GPS_BDS_AGNSS_DATA.dat](http://download.openluat.com/9501-xingli/HXXT_GPS_BDS_AGNSS_DATA.dat)|rtcm|Wed, 06 Nov 2024 06:09:15 GMT|
-|Air780EG/Air510U单北斗星历|[HXXT_GPS_BDS_AGNSS_DATA.dat](http://download.openluat.com/9501-xingli/HXXT_BDS_AGNSS_DATA.dat)|rtcm|Wed, 06 Nov 2024 06:09:15 GMT|
-|Air780EPVH星历|[HD_GPS_BDS.hdb](http://download.openluat.com/9501-xingli/HD_GPS_BDS.hdb)|hd|Wed, 06 Nov 2024 06:14:41 GMT|
-|Air530Z星历|[CASIC_data.dat](http://download.openluat.com/9501-xingli/CASIC_data.dat)|zkw|Wed, 06 Nov 2024 06:14:39 GMT|
-|Air530Z星历(单北斗)|[CASIC_data_bds.dat](http://download.openluat.com/9501-xingli/CASIC_data_bds.dat)|zkw|Wed, 06 Nov 2024 06:14:39 GMT|
+|Air780EG/Air510U北斗+GPS星历|[HXXT_GPS_BDS_AGNSS_DATA.dat](http://download.openluat.com/9501-xingli/HXXT_GPS_BDS_AGNSS_DATA.dat)|rtcm|Sun, 16 Mar 2025 11:28:41 GMT|
+|Air780EG/Air510U单北斗星历|[HXXT_GPS_BDS_AGNSS_DATA.dat](http://download.openluat.com/9501-xingli/HXXT_BDS_AGNSS_DATA.dat)|rtcm|Sun, 16 Mar 2025 11:28:41 GMT|
+|Air780EPVH星历|[HD_GPS_BDS.hdb](http://download.openluat.com/9501-xingli/HD_GPS_BDS.hdb)|hd|Sun, 16 Mar 2025 11:23:48 GMT|
+|Air530Z星历|[CASIC_data.dat](http://download.openluat.com/9501-xingli/CASIC_data.dat)|zkw|Sun, 16 Mar 2025 11:23:45 GMT|
+|Air530Z星历(单北斗)|[CASIC_data_bds.dat](http://download.openluat.com/9501-xingli/CASIC_data_bds.dat)|zkw|Sun, 16 Mar 2025 11:23:45 GMT|
 
 
 ## 北斗星历信息
@@ -30,23 +30,23 @@
 |13|√|√|√|√|√|
 |14|√|√|√|√|√|
 |16|√|√|√|√|√|
-|19|√|√|√|√|√|
-|20|√|√|√|√|√|
+|19|√|√|-|√|√|
+|20|√|√|-|√|√|
 |21|√|√|√|√|√|
-|22|√|√|√|√|√|
+|22|√|√|-|√|√|
 |23|√|√|√|√|√|
 |24|√|√|√|√|√|
 |25|√|√|√|√|√|
-|26|√|√|√|√|√|
+|26|√|√|-|√|√|
 |27|√|√|√|√|√|
 |28|√|√|√|√|√|
-|29|√|√|√|√|√|
-|30|√|√|√|√|√|
-|32|√|√|√|√|√|
+|29|√|√|-|√|√|
+|30|√|√|-|√|√|
+|32|√|√|-|√|√|
 |33|√|√|√|√|√|
 |34|√|√|√|√|√|
-|35|√|√|√|√|√|
-|36|√|√|√|√|√|
+|35|√|√|-|√|√|
+|36|√|√|-|√|√|
 |37|√|√|√|√|√|
 |38|√|√|√|-|-|
 |39|√|√|√|-|-|
@@ -54,11 +54,9 @@
 |41|√|√|√|-|-|
 |42|√|√|√|-|-|
 |43|√|√|√|-|-|
-|44|√|√|√|-|-|
-|45|√|√|√|-|-|
+|44|√|√|-|-|-|
+|45|√|√|-|-|-|
 |50|√|√|-|-|-|
-|56|√|√|-|-|-|
-|58|√|√|-|-|-|
 |59|√|√|√|-|-|
 |60|√|√|√|-|-|
 |62|√|√|-|-|-|
@@ -68,6 +66,7 @@
 
 |卫星编号|Air780EG/Air510U北斗+GPS星历|Air780EG/Air510U单北斗星历|Air780EPVH星历|Air530Z星历|Air530Z星历(单北斗)|
 |---|---|---|---|---|---|
+|01|√|-|√|√|-|
 |02|√|-|√|√|-|
 |03|√|-|√|√|-|
 |04|√|-|√|√|-|
@@ -87,7 +86,6 @@
 |18|√|-|√|√|-|
 |19|√|-|√|√|-|
 |20|√|-|√|√|-|
-|21|√|-|√|√|-|
 |22|√|-|√|√|-|
 |23|√|-|√|√|-|
 |24|√|-|√|√|-|
@@ -99,3 +97,4 @@
 |30|√|-|√|√|-|
 |31|√|-|√|√|-|
 |32|√|-|√|√|-|
+|21|-|-|-|√|-|
